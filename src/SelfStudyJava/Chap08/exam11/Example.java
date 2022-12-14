@@ -13,5 +13,7 @@ public class Example {
         ic.methodC();
         ic.methodA();
         ic.methodB();
+
+
     }
 }
