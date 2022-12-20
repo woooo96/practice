@@ -5,4 +5,5 @@ public class NullPointerExceptionExample {
         String data = null;
         System.out.println(data.toString());
     }
+
 }
