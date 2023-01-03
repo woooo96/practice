@@ -1,4 +1,4 @@
-package SelfStudyJava.Chap10.exam06start;
+package SelfStudyJava.Chap10.exam06;
 
 public class TryCatchFinallyExample {
     public static void main(String[] args) {
